@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nandaarianp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nandaarianp" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaarianto15&show_icons=true&locale=en&layout=compact" alt="nandaarianto15" /></p>
+<p><img style="background-color:black;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaarianto15&show_icons=true&locale=en&layout=compact" alt="nandaarianto15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandaarianto15&show_icons=true&locale=en" alt="nandaarianto15" /></p>
 
