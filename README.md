@@ -1,4 +1,4 @@
-<h1 align="center">Hi You All👋, I'm Nanda Arianto</h1>
+<h1 align="center">Hi There👋, I'm Nanda Arianto</h1>
 <h3 align="center">I am web developer, and I am passionate and dedicated to creating interest and responsive website. I can work in a team, i can be the Frontend Developer or Backend Developer and i can do a Full-Stack development when needed.</h3>
 
 - 🔭 I’m currently working on [Virtual World](https://virtualworld.id/)
