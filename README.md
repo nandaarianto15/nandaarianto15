@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Virtual World](https://virtualworld.id/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 See my portfolio [https://nandaarianto.vercel.app/](https://nandaarianto.vercel.app/)
 
