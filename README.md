@@ -23,8 +23,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nandaarianp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nandaarianp" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaarianto15&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nandaarianto15" /></p>
+<h3 align="left">Stats:</h3>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaarianto15&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nandaarianto15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandaarianto15&show_icons=true&locale=en&theme=transparent" alt="nandaarianto15" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nandaarianto15&show_icons=true&locale=en&theme=transparent" alt="nandaarianto15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandaarianto15&theme=transparent" alt="nandaarianto15" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nandaarianto15&theme=transparent" alt="nandaarianto15" /></p>
