@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Nanda Arianto</h1>
 <h3 align="center">I am web developer, and I am passionate and dedicated to creating interest and responsive website. I can work in a team, I can be the Frontend Developer or Backend Developer and I can do a Full-Stack Development when needed.</h3>
 
-- 🔭 I’m currently working on [Virtual World](https://virtualworld.id/) as a Web Developer
+- 🔭 I’m currently working on [Virtual World](https://virtualworld.id/) as a Web and API Developer
 
 - 👨‍💻 See my portfolio [https://nandaarianto.vercel.app/](https://nandaarianto.vercel.app/)
 
